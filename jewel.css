@@ -1,0 +1,44 @@
+#title{
+    color:darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 5px;
+    font-size: 50px;
+    }
+body{
+    
+    background-color: azure;
+}
+
+#prop{
+    
+        padding-left: 430px;
+        padding-right: 200px;
+        width:100%;
+    
+    background-color: darkgray;
+}
+
+img{padding-top:50px;
+width:200px;
+    height:250px
+}
+
+#pad_antique{
+        padding-left: 40px;
+    padding-right: 0px;
+
+}
+
+#pad_jhumki{
+    margin-left:30px;
+    position: relative;
+
+}
+#pad_pendant{
+    padding-left: 30px;
+}
+#pad_earring{
+    padding-left: 10px;
+}
