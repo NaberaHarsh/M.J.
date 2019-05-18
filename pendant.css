@@ -1,0 +1,49 @@
+body{
+    background-color: azure;
+}
+#title{
+    color:darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 5px;
+    font-size: 50px;
+    }
+    #prop{
+    
+        padding-left: 430px;
+        padding-right: 200px;
+        width:100%;
+    background-color: darkgray;
+}
+
+    img{
+   
+        width: 250px;
+        height: 200px;
+    }
+#details_heading{
+  color:crimson; 
+    font-size:15px;
+    text-align: center;
+}
+#cost{ 
+    text-align: center;
+    
+}
+#box_pendant{
+    text-align: center;
+    width:260px;
+    border:1px solid lightgrey;
+    height: 280px;
+    margin-left:5px;
+    margin-top: 5px;
+} 
+#image_pos{
+    padding: 10px 10px 10px 10px;
+}
+#show{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
