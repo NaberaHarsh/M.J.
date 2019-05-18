@@ -41,3 +41,9 @@ width:200px;
 #pad_earring{
     padding-left: 10px;
 }
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
